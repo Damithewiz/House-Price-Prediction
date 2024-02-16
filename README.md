@@ -8,12 +8,12 @@ The dataset used is a simulated subset of the California Housing Prices dataset,
 
 ### Key Steps
 
-Data Preprocessing: Cleaning and preparing the dataset for modeling.
-Exploratory Data Analysis: Analyzing the dataset to uncover patterns and insights.
-Feature Engineering: Enhancing the dataset with new features to improve model performance.
-Modeling: Building and evaluating Linear Regression and Random Forest models.
-Evaluation: Assessing model performance using metrics like MAE, RMSE, and R² score.
-Results
+- Data Preprocessing: Cleaning and preparing the dataset for modeling.
+- Exploratory Data Analysis: Analyzing the dataset to uncover patterns and insights.
+- Feature Engineering: Enhancing the dataset with new features to improve model performance.
+- Modeling: Building and evaluating Linear Regression and Random Forest models.
+- Evaluation: Assessing model performance using metrics like MAE, RMSE, and R² score.
+- Results
 
 The initial models provide a baseline for predicting housing prices, with insights into areas for improvement and further exploration.
 
