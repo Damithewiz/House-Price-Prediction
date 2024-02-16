@@ -4,7 +4,7 @@ This project aims to predict the median housing prices in California districts b
 
 ### Dataset
 
-The dataset used is a simulated subset of the California Housing Prices dataset, featuring details such as median income, housing median age, total rooms, and population across different districts.
+The dataset used is a subset of the California Housing Prices dataset, featuring details such as median income, housing median age, total rooms, and population across different districts.
 
 ### Key Steps
 
